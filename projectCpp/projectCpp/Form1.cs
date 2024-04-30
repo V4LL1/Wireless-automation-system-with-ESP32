@@ -15,9 +15,13 @@ namespace projectCpp
         private void entrarBtn_Click(object sender, EventArgs e)
         {
             inicio inicio = new inicio();
-
-            // Mostra o novo formulário
             inicio.Show();
+        }
+
+        private void criarBtn_Click(object sender, EventArgs e)
+        {
+            CriarPerfilAutenticacao criarPerfilAutenticacao = new CriarPerfilAutenticacao();
+            criarPerfilAutenticacao.Show();
         }
     }
 }

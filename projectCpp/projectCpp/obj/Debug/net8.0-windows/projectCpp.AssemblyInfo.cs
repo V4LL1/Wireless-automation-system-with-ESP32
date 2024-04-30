@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projectCpp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40d3aa0fcd22be8e54d3ff1e0eb5e31764b88ebe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8728d15018c8904d1e403ce1a5c12db707cdf4c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("projectCpp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projectCpp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

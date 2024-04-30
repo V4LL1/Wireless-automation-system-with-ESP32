@@ -33,6 +33,7 @@
             usuarioTxt = new TextBox();
             senhaTxt = new TextBox();
             entrarBtn = new Button();
+            criarBtn = new Button();
             SuspendLayout();
             // 
             // label1
@@ -79,13 +80,25 @@
             // 
             entrarBtn.BackColor = Color.FromArgb(236, 236, 236);
             entrarBtn.Font = new Font("Georgia", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            entrarBtn.Location = new Point(207, 278);
+            entrarBtn.Location = new Point(194, 249);
             entrarBtn.Name = "entrarBtn";
-            entrarBtn.Size = new Size(92, 37);
+            entrarBtn.Size = new Size(105, 37);
             entrarBtn.TabIndex = 4;
             entrarBtn.Text = "Entrar";
             entrarBtn.UseVisualStyleBackColor = false;
             entrarBtn.Click += entrarBtn_Click;
+            // 
+            // criarBtn
+            // 
+            criarBtn.BackColor = Color.FromArgb(236, 236, 236);
+            criarBtn.Font = new Font("Georgia", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            criarBtn.Location = new Point(194, 303);
+            criarBtn.Name = "criarBtn";
+            criarBtn.Size = new Size(105, 37);
+            criarBtn.TabIndex = 5;
+            criarBtn.Text = "Criar perfil";
+            criarBtn.UseVisualStyleBackColor = false;
+            criarBtn.Click += criarBtn_Click;
             // 
             // Form1
             // 
@@ -93,6 +106,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(23, 23, 23);
             ClientSize = new Size(385, 371);
+            Controls.Add(criarBtn);
             Controls.Add(entrarBtn);
             Controls.Add(senhaTxt);
             Controls.Add(usuarioTxt);
@@ -113,5 +127,6 @@
         private TextBox usuarioTxt;
         private TextBox senhaTxt;
         private Button entrarBtn;
+        private Button criarBtn;
     }
 }
