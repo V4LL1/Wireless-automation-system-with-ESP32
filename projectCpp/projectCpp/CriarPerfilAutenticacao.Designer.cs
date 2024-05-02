@@ -30,6 +30,7 @@
         {
             senhaAdminTxt = new TextBox();
             label1 = new Label();
+            entrarBtn = new Button();
             SuspendLayout();
             // 
             // senhaAdminTxt
@@ -46,11 +47,24 @@
             label1.AutoSize = true;
             label1.Font = new Font("Georgia", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = Color.FromArgb(236, 236, 236);
-            label1.Location = new Point(127, 134);
+            label1.Location = new Point(144, 138);
             label1.Name = "label1";
             label1.Size = new Size(202, 18);
             label1.TabIndex = 1;
             label1.Text = "Senha de administrador: ";
+            // 
+            // entrarBtn
+            // 
+            entrarBtn.BackColor = Color.FromArgb(236, 236, 236);
+            entrarBtn.Font = new Font("Georgia", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            entrarBtn.ForeColor = Color.FromArgb(17, 17, 17);
+            entrarBtn.Location = new Point(189, 219);
+            entrarBtn.Name = "entrarBtn";
+            entrarBtn.Size = new Size(105, 37);
+            entrarBtn.TabIndex = 10;
+            entrarBtn.Text = "Entrar";
+            entrarBtn.UseVisualStyleBackColor = false;
+            entrarBtn.Click += entrarBtn_Click;
             // 
             // CriarPerfilAutenticacao
             // 
@@ -58,6 +72,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(23, 23, 23);
             ClientSize = new Size(495, 339);
+            Controls.Add(entrarBtn);
             Controls.Add(label1);
             Controls.Add(senhaAdminTxt);
             Name = "CriarPerfilAutenticacao";
@@ -71,5 +86,6 @@
 
         private TextBox senhaAdminTxt;
         private Label label1;
+        private Button entrarBtn;
     }
 }

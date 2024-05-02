@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace projectCpp
 {
-    public partial class inicio : Form
+    public partial class CriarPerfil : Form
     {
-        public inicio()
+        public CriarPerfil()
         {
             InitializeComponent();
         }

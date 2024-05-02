@@ -21,5 +21,18 @@ namespace projectCpp
         {
 
         }
+        private void entrarBtn_Click(object sender, EventArgs e)
+        {
+            string senhaAdmin = senhaAdminTxt.Text;
+
+            if (senhaAdmin == "admin")
+            {
+                CriarPerfil inicio = new CriarPerfil();
+                inicio.Show();
+            } else
+            {
+                MessageBox.Show("Senha de acesso inválida!");
+            }
+        }
     }
 }

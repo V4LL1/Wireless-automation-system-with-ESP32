@@ -11,7 +11,7 @@ namespace projectCpp
     internal class ConexaoBD
     {
         private MySqlConnection conexao;
-        private string stringConexao = "Server=127.0.0.1;Database=banco;Uid=root;Pwd=;";
+        private string stringConexao = "Server=127.0.0.1;Database=database;Uid=root;Pwd=;";
 
         public ConexaoBD()
         {
