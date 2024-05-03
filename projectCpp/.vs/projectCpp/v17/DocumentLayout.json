@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|c:\\users\\suporte07\\desktop\\coisas pessoais\\faculdade\\projetoiii\\wireless-automation-system-with-esp32\\projectcpp\\projectcpp\\criarperfilautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\criarperfilautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|c:\\users\\suporte07\\desktop\\coisas pessoais\\faculdade\\projetoiii\\wireless-automation-system-with-esp32\\projectcpp\\projectcpp\\criarperfilautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\criarperfilautenticacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|c:\\users\\suporte07\\desktop\\coisas pessoais\\faculdade\\projetoiii\\wireless-automation-system-with-esp32\\projectcpp\\projectcpp\\criarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\criarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|c:\\users\\suporte07\\desktop\\coisas pessoais\\faculdade\\projetoiii\\wireless-automation-system-with-esp32\\projectcpp\\projectcpp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|c:\\users\\suporte07\\desktop\\coisas pessoais\\faculdade\\projetoiii\\wireless-automation-system-with-esp32\\projectcpp\\projectcpp\\criarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\criarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|c:\\users\\suporte07\\desktop\\coisas pessoais\\faculdade\\projetoiii\\wireless-automation-system-with-esp32\\projectcpp\\projectcpp\\criarperfil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\criarperfil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|c:\\users\\suporte07\\desktop\\coisas pessoais\\faculdade\\projetoiii\\wireless-automation-system-with-esp32\\projectcpp\\projectcpp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectcpp\\criarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A609BB43-E1BB-4834-9AF9-B1722D92733E}|projectCpp\\projectCpp.csproj|solutionrelative:projectcpp\\criarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,54 +26,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "CriarPerfil.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfil.Designer.cs",
               "RelativeDocumentMoniker": "projectCpp\\CriarPerfil.Designer.cs",
               "ToolTip": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfil.Designer.cs",
               "RelativeToolTip": "projectCpp\\CriarPerfil.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:26:01.506Z",
+              "WhenOpened": "2024-05-03T13:26:02.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CriarPerfilAutenticacao.cs",
-              "DocumentMoniker": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfilAutenticacao.cs",
-              "RelativeDocumentMoniker": "projectCpp\\CriarPerfilAutenticacao.cs",
-              "ToolTip": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfilAutenticacao.cs",
-              "RelativeToolTip": "projectCpp\\CriarPerfilAutenticacao.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "CriarPerfil.cs",
+              "DocumentMoniker": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfil.cs",
+              "RelativeDocumentMoniker": "projectCpp\\CriarPerfil.cs",
+              "ToolTip": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfil.cs",
+              "RelativeToolTip": "projectCpp\\CriarPerfil.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:25:42.173Z",
+              "WhenOpened": "2024-05-03T13:13:59.736Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\Form1.cs",
-              "RelativeDocumentMoniker": "projectCpp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\Form1.cs",
-              "RelativeToolTip": "projectCpp\\Form1.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T19:25:00.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CriarPerfilAutenticacao.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfilAutenticacao.cs",
-              "RelativeDocumentMoniker": "projectCpp\\CriarPerfilAutenticacao.cs",
-              "ToolTip": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\CriarPerfilAutenticacao.cs [Projeto]",
-              "RelativeToolTip": "projectCpp\\CriarPerfilAutenticacao.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T17:04:54.607Z",
-              "EditorCaption": " [Projeto]"
             },
             {
               "$type": "Document",
@@ -97,18 +60,6 @@
               "RelativeToolTip": "projectCpp\\CriarPerfil.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T16:57:40.095Z",
-              "EditorCaption": " [Projeto]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\Form1.cs",
-              "RelativeDocumentMoniker": "projectCpp\\Form1.cs",
-              "ToolTip": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\Form1.cs [Projeto]",
-              "RelativeToolTip": "projectCpp\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T13:51:20.674Z",
               "EditorCaption": " [Projeto]"
             }
           ]

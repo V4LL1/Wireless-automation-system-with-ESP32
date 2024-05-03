@@ -32,7 +32,7 @@
             usuarioTxt = new TextBox();
             label2 = new Label();
             label1 = new Label();
-            textBox1 = new TextBox();
+            nivelPermissaoTxt = new TextBox();
             CriarPerfilBtn = new Button();
             label3 = new Label();
             SuspendLayout();
@@ -77,13 +77,13 @@
             label1.TabIndex = 4;
             label1.Text = "Usuário:";
             // 
-            // textBox1
+            // nivelPermissaoTxt
             // 
-            textBox1.BackColor = Color.FromArgb(236, 236, 236);
-            textBox1.Location = new Point(70, 304);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(238, 25);
-            textBox1.TabIndex = 8;
+            nivelPermissaoTxt.BackColor = Color.FromArgb(236, 236, 236);
+            nivelPermissaoTxt.Location = new Point(70, 304);
+            nivelPermissaoTxt.Name = "nivelPermissaoTxt";
+            nivelPermissaoTxt.Size = new Size(238, 25);
+            nivelPermissaoTxt.TabIndex = 8;
             // 
             // CriarPerfilBtn
             // 
@@ -96,6 +96,7 @@
             CriarPerfilBtn.TabIndex = 9;
             CriarPerfilBtn.Text = "Criar";
             CriarPerfilBtn.UseVisualStyleBackColor = false;
+            CriarPerfilBtn.Click += CriarPerfilBtn_Click;
             // 
             // label3
             // 
@@ -106,7 +107,7 @@
             label3.TabIndex = 10;
             label3.Text = "Nível de permissão: ";
             // 
-            // inicio
+            // CriarPerfil
             // 
             AutoScaleDimensions = new SizeF(10F, 18F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -114,15 +115,15 @@
             ClientSize = new Size(385, 514);
             Controls.Add(label3);
             Controls.Add(CriarPerfilBtn);
-            Controls.Add(textBox1);
+            Controls.Add(nivelPermissaoTxt);
             Controls.Add(senhaTxt);
             Controls.Add(usuarioTxt);
             Controls.Add(label2);
             Controls.Add(label1);
             Font = new Font("Georgia", 11.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             ForeColor = Color.FromArgb(236, 236, 236);
-            Margin = new Padding(4, 4, 4, 4);
-            Name = "inicio";
+            Margin = new Padding(4);
+            Name = "CriarPerfil";
             Text = "inicio";
             ResumeLayout(false);
             PerformLayout();
@@ -134,7 +135,7 @@
         private TextBox usuarioTxt;
         private Label label2;
         private Label label1;
-        private TextBox textBox1;
+        private TextBox nivelPermissaoTxt;
         private Button CriarPerfilBtn;
         private Label label3;
     }
