@@ -32,3 +32,12 @@ C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automat
 C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\obj\Debug\net8.0-windows\projectCpp.csproj.AssemblyReference.cache
 C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\obj\Debug\net8.0-windows\projectCpp.csproj.Up2Date
 C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\obj\Debug\net8.0-windows\projectCpp.CriarPerfil.resources
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\System.IO.Ports.dll
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\Suporte07\Desktop\COISAS PESSOAIS\FACULDADE\projetoIII\Wireless-automation-system-with-ESP32\projectCpp\projectCpp\obj\Debug\net8.0-windows\projectCpp.PaginaInicial.resources
