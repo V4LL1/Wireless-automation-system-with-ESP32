@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\projectCpp.csproj": {}
+    "C:\\Users\\Guilherme\\Desktop\\Cpp automation system\\projectCpp\\projectCpp\\projectCpp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\projectCpp.csproj": {
+    "C:\\Users\\Guilherme\\Desktop\\Cpp automation system\\projectCpp\\projectCpp\\projectCpp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\projectCpp.csproj",
+        "projectUniqueName": "C:\\Users\\Guilherme\\Desktop\\Cpp automation system\\projectCpp\\projectCpp\\projectCpp.csproj",
         "projectName": "projectCpp",
-        "projectPath": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\projectCpp.csproj",
-        "packagesPath": "C:\\Users\\Suporte07\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suporte07\\Desktop\\COISAS PESSOAIS\\FACULDADE\\projetoIII\\Wireless-automation-system-with-ESP32\\projectCpp\\projectCpp\\obj\\",
+        "projectPath": "C:\\Users\\Guilherme\\Desktop\\Cpp automation system\\projectCpp\\projectCpp\\projectCpp.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme\\Desktop\\Cpp automation system\\projectCpp\\projectCpp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Suporte07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,26 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "dependencies": {
-            "MySql.Data": {
-              "target": "Package",
-              "version": "[8.4.0, )"
-            },
-            "System.IO.Ports": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -65,15 +50,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

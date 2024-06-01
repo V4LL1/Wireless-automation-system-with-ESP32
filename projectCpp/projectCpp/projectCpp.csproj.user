@@ -10,8 +10,5 @@
     <Compile Update="CriarPerfil.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PaginaInicial.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>

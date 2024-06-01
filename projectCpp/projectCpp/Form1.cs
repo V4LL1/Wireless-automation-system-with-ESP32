@@ -24,8 +24,6 @@ namespace projectCpp
             if (AutenticarUsuario(usuario, senha))
             {
                 MessageBox.Show("Autenticação bem-sucedida! Bem-vindo, " + usuario + "!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                PaginaInicial paginaInicial = new PaginaInicial();
-                paginaInicial.Show();
             }
             else
             {
